@@ -24,6 +24,9 @@ func UseOnDraw():
 func UseOnPlay():
 	pass
 
+func UseOnDiscard():
+	pass
+
 func UseOnDeath():
 	pass
 
@@ -38,3 +41,5 @@ func UseOnUpkeep():
 
 func UseOnEndOfTurn():
 	pass
+
+
